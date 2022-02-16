@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: bceb3509-e1ad-d5c9-28ba-627d9e962ed9
 ---
@@ -72,7 +75,7 @@ Out of print but worth digging for. This is a truly magnificent collection of co
 
 Davidson, Bruce. _Bruce Davidson: Outside Inside_. Steidl Photography International, 2010. ISBN: 9783865219084.
 
-Okay, it's three volumes, in a slipcase, and weighs in at 23 pounds, and contains more than _900 images_. But what images! It's all here: Davidson's legendary "Brooklyn Gang" essay, his circus work, his civil rights photography, "East 100th Street," "Central Park," his subway project from the 1970s, all the photos from the book "England and Scotland," and his more recent work on Los Angeles. The printing in this book is so good one wants to cut out prints and frame them–but hopefully one is not deranged enough to do so.
+Okay, it's three volumes, in a slipcase, and weighs in at 23 pounds, and contains more than _900 images_. But what images! It's all here: Davidson's legendary "Brooklyn Gang" essay, his circus work, his civil rights photography, "East 100{{< sup "th" >}} Street," "Central Park," his subway project from the 1970s, all the photos from the book "England and Scotland," and his more recent work on Los Angeles. The printing in this book is so good one wants to cut out prints and frame them–but hopefully one is not deranged enough to do so.
 
 Frank, Robert, and Jack Kerouac. _The Americans_. Steidl. 2008. ISBN: 9783865215840.
 
