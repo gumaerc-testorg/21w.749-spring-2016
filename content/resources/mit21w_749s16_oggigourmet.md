@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9c385e6e-7f87-6569-3cb5-4cf418da02a2
 resourcetype: Document
 title: 'Oggi Gourmet '
 uid: caed1922-0563-a8b5-87fb-93eeffc373b4
