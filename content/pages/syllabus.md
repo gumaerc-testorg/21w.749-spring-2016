@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides an introduction to the course and information
+  on meeting times, prerequisites, enrollment, camera recommendations, and use of
+  image processing tools.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

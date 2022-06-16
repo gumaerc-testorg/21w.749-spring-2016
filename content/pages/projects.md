@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the photo documentary project of the course and
+  provides examples of student work.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -40,8 +42,8 @@ Student Examples
 
 These students, who took this class in Fall 2015, have shared their documentary photo projects. (Courtesy of the MIT students. Used with permission.)
 
-*   Michael Cheung: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ideate, Model, Test (PDF - 14.7 MB)](/ans7870/21w/21w.749/s16/MIT21W_749S16_Michael.pdf)
+*   Michael Cheung: [Ideate, Model, Test (PDF - 14.7 MB)](/ans7870/21w/21w.749/s16/MIT21W_749S16_Michael.pdf)
 *   Peter Downs: [The Experimental Theater Company Presents](/ans7870/21w/21w.749/s16/projects/etc/)
 *   Marisa Nienberg: [Jay Scheib: MIT Theater Professor and Director](https://youtu.be/oB2Oov_UD_w)
-*   Elizabeth Zhang: ["It was a total coincidence." (PDF - 8.3MB)]({{< baseurl >}}/resources/mit21w_749s16_elizlowres)
-*   An MIT student: [Oggi Gourmet (PDF)]({{< baseurl >}}/resources/mit21w_749s16_oggigourmet)
+*   Elizabeth Zhang: {{% resource_link 55065a96-31db-0f53-3b6b-369772a72c9b "\"It was a total coincidence.\" (PDF - 8.3MB)" %}}
+*   An MIT student: {{% resource_link caed1922-0563-a8b5-87fb-93eeffc373b4 "Oggi Gourmet (PDF)" %}}
