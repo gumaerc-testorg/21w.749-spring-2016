@@ -5,6 +5,7 @@ file: /courses/21w-749-documentary-photography-and-photojournalism-still-images-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Oggi Gourmet '
 uid: caed1922-0563-a8b5-87fb-93eeffc373b4
 ---
 Example student documentary photo project.
-

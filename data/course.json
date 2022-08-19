@@ -39,7 +39,9 @@
   },
   "course_title": "Documentary Photography and Photojournalism: Still Images of a World in Motion",
   "course_description": "In this course, you will be exposed to the work of many great documentary photographers and photojournalists, as well as to writing about the documentary tradition. Further, throughout the term, you will hone your photographic skills and 'eye,' and you will work on a photo documentary project of your own, attempting to reduce a tiny area of the moving world to a set of still images that convey what the viewer needs to know about what you saw\u2014without hearing the sounds, smelling the odors, experiencing what was happening outside the viewfinder, and without seeing the motion.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.935",
   "primary_course_number": "21W.749",
   "course_image_thumbnail": {
@@ -50,6 +52,6 @@
     "Projects with Examples",
     "Activity Assignments"
   ],
-  "site_uid": "87e31e60-82a6-436b-aac6-b3f1b358eae3",
+  "site_uid": "c2616f26-03f9-4594-9881-d353e5a2703b",
   "title": "Course Metadata"
 }
